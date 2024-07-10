@@ -1,7 +1,6 @@
 // rafce
 
 import React from "react";
-// import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/textgenerate";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
