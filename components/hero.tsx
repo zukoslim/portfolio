@@ -4,7 +4,8 @@ import React from "react";
 import { TextGenerateEffect } from "./ui/textgenerate";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
-import { Spotlight } from "./ui/spotlight";
+import { Spotlight } from "./ui/Spotlight";
+
 
 const hero = () => {
   return (
